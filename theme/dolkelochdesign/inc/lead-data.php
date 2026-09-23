@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Dolk El & Design AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '073-529 72 43',
 	'telefon_tel'    => '+46735297243',
 	'ort'            => 'Ystad',
